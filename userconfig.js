@@ -491,6 +491,12 @@ const default_config = {
               icon: "brand-tidal",
               icon_color: palette.blue,
             },
+            {
+              name: "genius",
+              url: "https://genius.com/",
+              icon: "abc",
+              icon_color: palette.mauve,
+            },
           ],
         },
         {
@@ -515,9 +521,9 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "genius",
-              url: "https://genius.com/",
-              icon: "abc",
+              name: "listenbrainz",
+              url: "https://listenbrainz.org",
+              icon: "ear",
               icon_color: palette.blue,
             },
           ],
