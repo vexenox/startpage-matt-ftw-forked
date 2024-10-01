@@ -819,8 +819,8 @@ const default_config = {
           name: "security",
           links: [
             {
-              name: "r/cybersecurity",
-              url: "https://www.reddit.com/r/cybersecurity/",
+              name: "cybersecurity-guide",
+              url: "https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide",
               icon: "fingerprint",
               icon_color: palette.green,
             },
