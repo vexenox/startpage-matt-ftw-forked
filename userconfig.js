@@ -685,13 +685,13 @@ const default_config = {
             },
             {
               name: "palette-generator",
-              url: "https://rosepinetheme.com/",
+              url: "https://colpat.itsvg.in/dashboard",
               icon: "palette",
               icon_color: palette.blue,
             },
             {
               name: "color-picker",
-              url: "https://12ft.io/",
+              url: "https://htmlcolorcodes.com/color-picker/",
               icon: "color-picker",
               icon_color: palette.mauve,
             },
