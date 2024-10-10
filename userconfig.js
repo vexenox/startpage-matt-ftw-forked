@@ -754,6 +754,12 @@ const default_config = {
               icon: "server-off",
               icon_color: palette.flamingo,
             },
+            {
+              name: "selfh.st",
+              url: "https://selfh.st/",
+              icon: "server-2",
+              icon_color: palette.pink,
+            },
           ],
         },
         {
