@@ -5,15 +5,7 @@ windows:
     panes:
       - shell_command:
           - nvim
-  - window_name: tasks
+  - window_name: server
     panes:
       - shell_command:
-          - nvim
-  - window_name: git
-    panes:
-      - shell_command:
-          - lazygit
-  - window_name: notes
-    start_directory: ~/documents/obsidian-vaults/personal
-    panes:
-      - null
+          - five-server
