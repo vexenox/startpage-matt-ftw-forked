@@ -1,3 +1,4 @@
+// latte / frappe / macchiato / mocha
 const palette = macchiato;
 
 const default_config = {
@@ -185,7 +186,7 @@ const default_config = {
             },
             {
               name: "wakatime",
-              url: "https://wakatime.com/dashboard",
+              url: "https://wakatime.com",
               icon: "24-hours",
               icon_color: palette.red,
             },
