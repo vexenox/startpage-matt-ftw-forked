@@ -92,6 +92,12 @@ const default_config = {
               icon: "inbox",
               icon_color: palette.peach,
             },
+            {
+              name: "aws",
+              url: "https://awsacademy.instructure.com/",
+              icon: "brand-aws",
+              icon_color: palette.red,
+            },
           ],
         },
         {
