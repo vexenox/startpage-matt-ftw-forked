@@ -46,6 +46,18 @@ const default_config = {
               icon: "brand-twitch",
               icon_color: palette.blue,
             },
+            {
+              name: "hacker-news",
+              url: "https://news.ycombinator.com/ask",
+              icon: "news",
+              icon_color: palette.mauve,
+            },
+            {
+              name: "lemmy",
+              url: "https://lemmy.ml/",
+              icon: "users",
+              icon_color: palette.sky,
+            },
           ],
         },
         {
