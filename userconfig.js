@@ -174,10 +174,16 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
+              name: "stirling-pdf",
+              url: "http://127.0.0.1:7896/",
+              icon: "pdf",
+              icon_color: palette.red,
+            },
+            {
               name: "vercel",
               url: "https://vercel.com/dashboard",
               icon: "brand-vercel",
-              icon_color: palette.red,
+              icon_color: palette.blue,
             },
           ],
         },
